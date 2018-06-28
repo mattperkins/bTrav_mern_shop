@@ -1,0 +1,8 @@
+{
+  "name": "btrav_mern_shop",
+  "version": "1.0.0",
+  "description": "MERN Stack App",
+  "main": "server.js",
+  "author": "DORMshed",
+  "license": "MIT"
+}
