@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "MERN Stack App",
   "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
   "author": "DORMshed",
   "license": "MIT",
   "dependencies": {
